@@ -12,3 +12,9 @@
 With the acquistion of Trilogy Education Service in April 2019 for ($750mil) and right now at the time of this README the pandemic, has put 2U in a unique position more then ever. Trilogy offers non-credit professional training programs, colloquially known as coding bootcamps, through universities partners. With the the massive success Triology has had in the bootcamp space and 2U becoming the worlds largest online education provider has been a postive merege.  
 
 
+
+---
+
+
+
+<img src="Images/2u_Financials.PNG"/>
