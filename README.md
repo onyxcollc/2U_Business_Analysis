@@ -7,7 +7,7 @@
 
 ## Background
  
-2U is a online program manager. It does not confer degrees but it does provide its clients with technology and other resources to create online classes and degree programs taught by the client institution's instructors with live video and recorded classes with multimedia presentations. It is generally a smaller class sizes and career services is included. Students meet in a live video chat room with the professor and the other students. This business model has led to a student retention rate of 84%. 2U signs long-term contracts, typically 10-to-15 years in length, with its client institutions. Students pay standard tuition and 2U gets paid through revenue sharing.
+2U is a online program manager. It does not confer degrees but it does provide its clients with technology and other resources to create online classes and degree programs taught by the client institution's instructors with live video and recorded classes with live video presentations. It is generally a smaller class sizes and career services is included. Students meet in a live video chat room with the professor and the other students. This business model has led to a student retention rate of 84%. 2U signs long-term contracts, typically 10-to-15 years in length, with its client institutions. Students pay standard tuition and 2U gets paid through revenue sharing.
 
 With the acquistion of Trilogy Education Service in April 2019 for ($750mil) and right now at the time of this README the pandemic, has put 2U in a unique position more then ever. Trilogy offers non-credit professional training programs, colloquially known as coding bootcamps, through universities partners. With the the massive success Triology has had in the bootcamp space and 2U becoming the worlds largest online education provider has been a postive merege.  
 
@@ -16,5 +16,9 @@ With the acquistion of Trilogy Education Service in April 2019 for ($750mil) and
 ---
 
 
-
-<img src="Images/2u_Financials.PNG"/>
+ ## Financial Anaylysis
+ 
+ Based on the financial information produced from [quickfs](https://quickfs.net/company/TWOU:US)  2U IPO'd in March of 2014 and have since been trying to break even on there investment. The company is now (-26.22%) ROIC in 2020, coming from a ROIC of (-62363.44%) in 2014 when they IPO'd. The average revenue growth over the 10 years is (+40%). Gross profit have just hit an all time high of ($541mil) annualy. Earnings per share is ($-3.22) and the growth rate of the EPS is (+15.9) to date. 
+ 
+ 
+ <img src="Images/2u_Financials.PNG"/>
