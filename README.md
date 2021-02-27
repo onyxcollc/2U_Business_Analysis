@@ -31,17 +31,18 @@ With the acquistion of Trilogy Education Service in April 2019 for ($750mil) and
 ## Tools Used 
  * Monte Carlo Sim
  * Python
- * (ALPACA) TWOU historical date
+ * (ALPACA) 2U historical data
  
  # The Future 
  
  ##  Monte Carlo Simulation ( Range Analysis )
  
  
- >  Since TWOU is a publicly traded company there is a great deal of interest in the stock price(EPS). As we look ahead to the future it would be best to understand what a possible investment of $10,000 in the stock market could yeild. Based on the Monte Carlo Simulatin Model there is a 95% chance that an initial investment of $10,000 in the portfolio over the next 3 years will end within in the range of $4247.35 and $98361.54.
+ >  Since 2U is a publicly traded company there is a great deal of interest in the stock price(EPS). As we look ahead to the future it would be best to understand what a possible investment of $10,000 in the stock market could yeild. Based on the Monte Carlo Simulatin Model there is a 95% chance that an initial investment of $10,000 in the portfolio over the next 3 years will end within in the range of $4247.35 and $98361.54.
  
 
-<img src="Images/2.PNG"/>
- 
+<img src="Images/2U_Monte_Carlo.PNG"/>
+
+ <img src="Images/2U_Distrbu_Cum_Return.PNG"/>
  
  
