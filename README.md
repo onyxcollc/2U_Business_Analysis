@@ -18,7 +18,13 @@ With the acquistion of Trilogy Education Service in April 2019 for ($750mil) and
 
  ## Financial Anaylysis
  
- Based on the financial information produced from [quickfs](https://quickfs.net/company/TWOU:US)  2U IPO'd in March of 2014 and have since been trying to break even on there investment. The company is now (-65.9%) ROIC in 2020, coming from a ROIC of (-62363.44%) in 2014 when they IPO'd. The average revenue growth over the 10 years is (+40%). Gross profit have just hit an all time high of ($541mil)annual or (+74.5%) growth 10yr median margins. Earnings per share is (+$3.22) and the growth rate of the EPS is (+15.9) to date. Return on Assets as of 2020 is (-15.7%). Keep in consideration the company has only been around for 13yrs, and just recently value of 2U has since gone up because of circumstance.
+ > Based on the financial information produced from [quickfs](https://quickfs.net/company/TWOU:US)  2U IPO'd in March of 2014 and have since been trying to break even on there investment. The company is now (-65.9%) ROIC in 2020, coming from a ROIC of (-62363.44%) in 2014 when they IPO'd. The average revenue growth over the 10 years is (+40%). Gross profit have just hit an all time high of ($541mil)annual or (+74.5%) growth 10yr median margins. Earnings per share is (+$3.22) and the growth rate of the EPS is (+15.9) to date. Return on Assets as of 2020 is (-15.7%). Keep in consideration the company has only been around for 13yrs, and just recently value of 2U has since gone up because of circumstance.
  
  
  <img src="Images/2u_Financials.PNG"/>
+ 
+ 
+
+ 
+ 
+ 
