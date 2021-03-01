@@ -28,6 +28,8 @@ With the acquistion of Trilogy Education Service in April 2019 for ($750mil) and
  <img src="Images/2u_Financials.PNG"/>
  
 
+---
+
 
 ## 2u Products/Services 
 
