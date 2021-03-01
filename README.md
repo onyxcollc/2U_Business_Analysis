@@ -28,6 +28,15 @@ With the acquistion of Trilogy Education Service in April 2019 for ($750mil) and
  <img src="Images/2u_Financials.PNG"/>
  
 
+
+## 2u Products/Services 
+
+> 2U is a globel leader in education technology, they are a trusted partner and brand steward of great Universities. The company has a catalog of 75 University partners and they're looking to make more partnerships within this year 2021. 2U also partners with third party platforms that helps millions or workers in America have access to affordable pathways to education from a variety of companies. 2U's main goal is to help students stay competitve throughout there lives and career with programs that go into Short Courses, Course Stacks, Boot Camps, Professional Certs, Undergraduate Degree, and Gradute Degree. 
+
+
+
+
+
 ## Tools Used 
  * Monte Carlo Sim
  * Python
