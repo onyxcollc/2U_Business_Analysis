@@ -16,7 +16,7 @@ With the acquistion of Trilogy Education Service in April 2019 for ($750mil) and
 ## Tools Used 
  * Monte Carlo Sim
  * Python
- * (ALPACA) TWOU historical date
+ * (ALPACA) TWOU historical data
 
 ---
  
@@ -57,3 +57,4 @@ With the acquistion of Trilogy Education Service in April 2019 for ($750mil) and
  <img src="Images/2U_Distrbu_Cum_Return.PNG"/>
  
  
+.....to be continued...... 
